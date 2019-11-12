@@ -2,10 +2,10 @@
 
 
 ## 入侵检测相关学术会议/期刊
-[RAID](http://dblp.uni-trier.de/db/conf/raid/)  
-[DIMVA](http://dblp.uni-trier.de/db/conf/dimva/)  
-[ISC](http://dblp.uni-trier.de/db/conf/isw/)  
-[SEC](http://dblp.uni-trier.de/db/conf/sec/)  
+[RAID International Symposium on Recent Advances in Intrusion Detection](http://dblp.uni-trier.de/db/conf/raid/)  
+[DIMVA Detection of Intrusions and Malware &Vulnerability Assessment](http://dblp.uni-trier.de/db/conf/dimva/)  
+[ISC Information Security Conference](http://dblp.uni-trier.de/db/conf/isw/)  
+[SEC IFIP International Information Security Conference](http://dblp.uni-trier.de/db/conf/sec/)  
 
 
 ## 近年异常(入侵)检测类学术文章（CCF 会议期刊ABC）
