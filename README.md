@@ -22,6 +22,9 @@
 [LA-GRU: Building Combined Intrusion Detection Model Based on Imbalanced Learning and Gated Recurrent Unit Neural Network](https://www.hindawi.com/journals/scn/2018/6026878/) 解决了数据不平衡的入侵检测模型  
 [A Closer Look at Intrusion Detection System for Web Applications](https://www.hindawi.com/journals/scn/2018/9601357/) 针对Web应用的入侵检测  
 [Network Intrusion Detection Method Based on PCA and Bayes Algorithm ](https://www.hindawi.com/journals/scn/2018/1914980/) 基于PCA和贝叶斯的网络入侵检测  
+[Symmetry Degree Measurement and its Applications to Anomaly Detection](https://ieeexplore.ieee.org/document/8790758) 对称度量在异常检测中的应用  
+[An Intelligence-Driven Security-Aware Defense Mechanism for Advanced Persistent Threats](https://ieeexplore.ieee.org/document/8386813) 基于Lyapunov的，以威胁情报为后盾的态势感知  
+
 
 
 ## 基于主机日志（事件）类学术论文
@@ -41,11 +44,14 @@
 [DNS Tunneling Detection Method Based on Multilabel Support Vector Machine](https://www.hindawi.com/journals/scn/2018/6137098/) DNS通信隧道检测  
 [A Novel Immune-Inspired Shellcode Detection Algorithm Based on Hyperellipsoid Detectors.](https://www.hindawi.com/journals/scn/2018/2063089/) Shellcode检测  
 [Detecting Malware with an Ensemble Method Based on Deep Neural Network](https://www.hindawi.com/journals/scn/2018/7247095/) 恶意软件检测  
+[ALDOCX: Detection of Unknown Malicious Microsoft Office Documents Using Designated Active Learning Methods Based on New Structural Feature Extraction Methodology](https://ieeexplore.ieee.org/document/7762928) 恶意Office文档检测  
+
 
 ## DDOS检测
 [MLP-GA based algorithm to detect application layer DDoS attack](https://www.sciencedirect.com/science/article/abs/pii/S2214212616302162?via%3Dihub)  
 [An event based technique for detecting spoofed IP packets](https://www.sciencedirect.com/science/article/abs/pii/S2214212617301692?via%3Dihub)  
 [A DDoS Attack Detection Method Based on SVM in Software Defined Network](https://www.hindawi.com/journals/scn/2018/9804061/)
+[Preventing Distributed Denial-of-Service Flooding Attacks With Dynamic Path Identifiers](https://ieeexplore.ieee.org/document/7888484) 基于动态路径标识的DDOS防御  
 
 
 ## 域名类
@@ -53,3 +59,9 @@
 
 ## 爬虫检测
 [Detection Method for Distributed Web-Crawlers: A Long-Tail Threshold Model](https://www.hindawi.com/journals/scn/2018/9065424/) 分布式爬虫检测  
+
+
+## 防御类
+[Misery Digraphs: Delaying Intrusion Attacks in Obscure Clouds](https://ieeexplore.ieee.org/document/8125739) 云架构上的欺骗防御  
+[https://ieeexplore.ieee.org/document/8325528]([]https://ieeexplore.ieee.org/document/8325528) 大型网络动态防御技术  
+
