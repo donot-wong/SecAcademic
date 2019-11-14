@@ -35,6 +35,7 @@
 [A novel architecture combined with optimal parameters for back propagation neural networks applied to anomaly network intrusion detection](https://www.sciencedirect.com/science/article/pii/S0167404818300543?via%3Dihub) 反向传播算法入侵检测  
 [https://www.sciencedirect.com/science/article/pii/S0167404817302274?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0167404817302274?via%3Dihub) 入侵检测特征选择  
 [A survey of intrusion detection systems based on ensemble and hybrid classifiers](A survey of intrusion detection systems based on ensemble and hybrid classifiers) 对基于集成和混合分类器的入侵检测调查  
+[MADE: Security Analytics for Enterprise Threat Detection]() 恶意域名检测  
 
 
 
@@ -60,6 +61,7 @@
 [From big data to knowledge: A spatio-temporal approach to malware detection](https://www.sciencedirect.com/science/article/pii/S0167404817302705?via%3Dihub) 基于时间、空间关联信息的恶意软件检测  
 [A malware detection method based on family behavior graph](https://www.sciencedirect.com/science/article/pii/S0167404817302146?via%3Dihub) 基于家族行为图的恶意软件检测  
 [Using side channel TCP features for real-time detection of malware connections](https://content.iospress.com/articles/journal-of-computer-security/jcs191286) TCP侧信道检测恶意软件通信  
+[DECANTeR: DEteCtion of Anomalous outbouNd HTTP TRaffic by Passive Application Fingerprinting](https://dl.acm.org/citation.cfm?doid=3134600.3134605) 恶意HTTP通信检测  
 
 ## DDOS检测
 [MLP-GA based algorithm to detect application layer DDoS attack](https://www.sciencedirect.com/science/article/abs/pii/S2214212616302162?via%3Dihub)  
