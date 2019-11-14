@@ -6,7 +6,8 @@
 [DIMVA Detection of Intrusions and Malware &Vulnerability Assessment](http://dblp.uni-trier.de/db/conf/dimva/)  
 [ISC Information Security Conference](http://dblp.uni-trier.de/db/conf/isw/)  
 [SEC IFIP International Information Security Conference](http://dblp.uni-trier.de/db/conf/sec/)  
-[SCN Security and Communication Networks](http://dblp.uni-trier.de/db/journals/scn/) CCF C类/中科院4区
+[SCN Security and Communication Networks](http://dblp.uni-trier.de/db/journals/scn/) CCF C类/中科院4区  
+[TrustCom IEEE International Conference on Trust,Security and Privacy in Computing and Communications](https://dblp.uni-trier.de/db/conf/trustcom/) CCF C类/中科院4区  
 
 ## 近年异常(入侵)检测类学术文章（CCF 会议期刊ABC）
 [Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub)基于组合特征和聚类算法的入侵检测（KDD99）  
@@ -39,6 +40,17 @@
 *[A Reinforcement Learning Approach for Attack Graph Analysis](https://ieeexplore.ieee.org/document/8455909) 基于强化学习的攻击图分析*  
 [Profiling Network Traffic Behavior for the Purpose of Anomaly-Based Intrusion Detection](https://ieeexplore.ieee.org/document/8455995)  基于流量行为的异常检测  
 *[Insider Threat Detection Through Attributed Graph Clustering](https://ieeexplore.ieee.org/document/8029430) 基于属性图聚类的内部威胁检测*  
+*[Unsupervised Feature Selection Method for Intrusion Detection System](https://ieeexplore.ieee.org/document/7345295) 入侵检测系统中的无监督学习特征选择*   
+*[Big Data Analytics for Detecting Host Misbehavior in Large Logs](https://ieeexplore.ieee.org/document/7345288) 从日志中分析主机的不当行为*  
+[An Efficient and Scalable Intrusion Detection System on Logs of Distributed Applications](https://link.springer.com/chapter/10.1007%2F978-3-030-22312-0_4) 基于分布式日志的入侵检测  
+[Process Discovery for Industrial Control System Cyber Attack Detection](https://link.springer.com/chapter/10.1007%2F978-3-319-58469-0_5) 工控系统入侵检测  
+[Visualization of Intrusion Detection Alarms Collected from Multiple Networks](https://link.springer.com/chapter/10.1007%2F978-3-319-69659-1_24) 入侵检测系统告警信息可视化  
+[Slop: Towards an Efficient and Universal Streaming Log Parser](https://link.springer.com/chapter/10.1007%2F978-3-030-01950-1_19) 高效的日志流解析器  
+[A Linguistic Approach Towards Intrusion Detection in Actual Proxy Logs](https://link.springer.com/chapter/10.1007%2F978-3-030-01950-1_42) 在代理日志中进行入侵检测  
+[A Transparent Learning Approach for Attack Prediction Based on User Behavior Analysis](https://link.springer.com/chapter/10.1007%2F978-3-319-50011-9_13) 基于用户行为预测攻击  
+
+
+
 
 
 
@@ -76,10 +88,14 @@
 ## 域名类
 [An Imbalanced Malicious Domains Detection Method Based on Passive DNS Traffic Analysis](https://www.hindawi.com/journals/scn/2018/6510381/) 基于DNS流量不平衡的恶意域名检测  
 [Issues and challenges in DNS based botnet detection: A survey](https://www.sciencedirect.com/science/article/pii/S0167404819301117?via%3Dihub) 僵尸网络DNS隧道的调查  
-[Detection of malicious and low throughput data exfiltration over the DNS protocol](https://www.sciencedirect.com/science/article/pii/S0167404818304000?via%3Dihub)  DNS隧道检测
+[Detection of malicious and low throughput data exfiltration over the DNS protocol](https://www.sciencedirect.com/science/article/pii/S0167404818304000?via%3Dihub)  DNS隧道检测  
 [DomainChroma: Building actionable threat intelligence from malicious domain names](https://www.sciencedirect.com/science/article/pii/S0167404818302967?via%3Dihub) 通过恶意域名构建威胁情报  
 [Toward secure name resolution on the internet](https://www.sciencedirect.com/science/article/pii/S0167404818300403?via%3Dihub)  下一代安全名称解析协议  
 [DNS Tunneling Detection Method Based on Multilabel Support Vector Machine](https://www.hindawi.com/journals/scn/2018/6137098/) DNS通信隧道检测  
+[Detecting DNS Tunnel through Binary-Classification Based on Behavior Features](https://ieeexplore.ieee.org/document/8029459) DNS隧道检测  
+[Getting Under Alexa’s Umbrella: Infiltration Attacks Against Internet Top Domain Lists](https://link.springer.com/chapter/10.1007%2F978-3-030-30215-3_13)  
+[Fast Flux Service Network Detection via Data Mining on Passive DNS Traffic](https://link.springer.com/chapter/10.1007%2F978-3-319-99136-8_25)  
+[A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007%2F978-3-319-78813-5_22)  基于深度学习的恶意URL和DNS检测  
 
 
 ## 爬虫检测
