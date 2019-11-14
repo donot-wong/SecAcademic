@@ -13,8 +13,8 @@
 [Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub)主机事件挖掘  
 [Intrusion response prioritization based on fuzzy ELECTRE multiple criteria decision making technique](https://www.sciencedirect.com/science/article/abs/pii/S2214212618307932?via%3Dihub)  
 [A novel honeypot based security approach for real-time intrusion detection and prevention systems](https://www.sciencedirect.com/science/article/abs/pii/S2214212616303295?via%3Dihub)基于蜜罐的实时入侵检测系统  
-[Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub)识别安全事件中的违规行为  
-[Distance Measurement Methods for Improved Insider Threat Detection](https://www.hindawi.com/journals/scn/2018/5906368/) 企业内部威胁检测  
+*[Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub)识别安全事件中的违规行为*  
+*[Distance Measurement Methods for Improved Insider Threat Detection](https://www.hindawi.com/journals/scn/2018/5906368/) 企业内部威胁检测*  
 [Defending against the Advanced Persistent Threat: An Optimal Control Approach](https://www.hindawi.com/journals/scn/2018/2975376/) 基于最佳控制的APT防御方案  
 [Network Intrusion Detection with Threat Agent Profiling](https://www.hindawi.com/journals/scn/2018/3614093/) 基于Threat Agent Profiling的网络入侵检测  
 [Network Intrusion Detection through Stacking Dilated Convolutional Autoencoders](https://www.hindawi.com/journals/scn/2017/4184196/abs/) 自编码器网络入侵检测  
@@ -36,6 +36,9 @@
 [https://www.sciencedirect.com/science/article/pii/S0167404817302274?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0167404817302274?via%3Dihub) 入侵检测特征选择  
 [A survey of intrusion detection systems based on ensemble and hybrid classifiers](A survey of intrusion detection systems based on ensemble and hybrid classifiers) 对基于集成和混合分类器的入侵检测调查  
 [MADE: Security Analytics for Enterprise Threat Detection]() 恶意域名检测  
+*[A Reinforcement Learning Approach for Attack Graph Analysis](https://ieeexplore.ieee.org/document/8455909) 基于强化学习的攻击图分析*  
+[Profiling Network Traffic Behavior for the Purpose of Anomaly-Based Intrusion Detection](https://ieeexplore.ieee.org/document/8455995)  基于流量行为的异常检测  
+*[Insider Threat Detection Through Attributed Graph Clustering](https://ieeexplore.ieee.org/document/8029430) 基于属性图聚类的内部威胁检测*  
 
 
 
