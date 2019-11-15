@@ -10,44 +10,44 @@
 [TrustCom IEEE International Conference on Trust,Security and Privacy in Computing and Communications](https://dblp.uni-trier.de/db/conf/trustcom/) CCF C类/中科院4区  
 
 ## 近年异常(入侵)检测类学术文章（CCF 会议期刊ABC）
-[Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub) 基于组合特征和聚类算法的入侵检测（KDD99）  
-[Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub) 主机事件挖掘  
-[Intrusion response prioritization based on fuzzy ELECTRE multiple criteria decision making technique](https://www.sciencedirect.com/science/article/abs/pii/S2214212618307932?via%3Dihub)  
-[A novel honeypot based security approach for real-time intrusion detection and prevention systems](https://www.sciencedirect.com/science/article/abs/pii/S2214212616303295?via%3Dihub) 基于蜜罐的实时入侵检测系统  
-*[Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub) 识别安全事件中的违规行为*  
-*[Distance Measurement Methods for Improved Insider Threat Detection](https://www.hindawi.com/journals/scn/2018/5906368/) 企业内部威胁检测*  
-[Defending against the Advanced Persistent Threat: An Optimal Control Approach](https://www.hindawi.com/journals/scn/2018/2975376/) 基于最佳控制的APT防御方案  
-[Network Intrusion Detection with Threat Agent Profiling](https://www.hindawi.com/journals/scn/2018/3614093/) 基于Threat Agent Profiling的网络入侵检测  
-[Network Intrusion Detection through Stacking Dilated Convolutional Autoencoders](https://www.hindawi.com/journals/scn/2017/4184196/abs/) 自编码器网络入侵检测  
-[An Approach for Internal Network Security Metric Based on Attack Probability](https://www.hindawi.com/journals/scn/2018/3652170/) 基于攻击概率的内部安全评估  
-[LA-GRU: Building Combined Intrusion Detection Model Based on Imbalanced Learning and Gated Recurrent Unit Neural Network](https://www.hindawi.com/journals/scn/2018/6026878/) 解决了数据不平衡的入侵检测模型  
-[A Closer Look at Intrusion Detection System for Web Applications](https://www.hindawi.com/journals/scn/2018/9601357/) 针对Web应用的入侵检测  
-[Network Intrusion Detection Method Based on PCA and Bayes Algorithm ](https://www.hindawi.com/journals/scn/2018/1914980/) 基于PCA和贝叶斯的网络入侵检测  
-[Symmetry Degree Measurement and its Applications to Anomaly Detection](https://ieeexplore.ieee.org/document/8790758) 对称度量在异常检测中的应用  
-[An Intelligence-Driven Security-Aware Defense Mechanism for Advanced Persistent Threats](https://ieeexplore.ieee.org/document/8386813) 基于Lyapunov的，以威胁情报为后盾的态势感知  
-[A survey of network-based intrusion detection data sets](https://www.sciencedirect.com/science/article/pii/S016740481930118X?via%3Dihub) 基于网络入侵检测数据集调查  
-[CorrCorr: A feature selection method for multivariate correlation network anomaly detection techniques](https://linkinghub.elsevier.com/retrieve/pii/S0167404818306485) 基于网络入侵检测的特征选择方法  
-[How to trick the Borg: threat models against manual and automated techniques for detecting network attacks](https://www.sciencedirect.com/science/article/pii/S0167404818311283?via%3Dihub)  
-[Firefly algorithm based feature selection for network intrusion detection](https://www.sciencedirect.com/science/article/pii/S0167404818303936?via%3Dihub) 入侵检测特征选择  
-[Dynamic log file analysis: An unsupervised cluster evolution approach for anomaly detection](https://www.sciencedirect.com/science/article/pii/S0167404818306333?via%3Dihub) 基于无监督动态日志分析的异常检测  
-[A training-resistant anomaly detection system](https://www.sciencedirect.com/science/article/pii/S016740481830155X?via%3Dihub)  反对抗机器学习入侵检测  
-[A systematic survey on multi-step attack detection](https://www.sciencedirect.com/science/article/pii/S0167404818302141?via%3Dihub)  对多阶段攻击检测技术的调查  
-[Saving energy in aggressive intrusion detection through dynamic latency sensitivity recognition](https://www.sciencedirect.com/science/article/pii/S0167404817302638?via%3Dihub)  
-[A novel architecture combined with optimal parameters for back propagation neural networks applied to anomaly network intrusion detection](https://www.sciencedirect.com/science/article/pii/S0167404818300543?via%3Dihub) 反向传播算法入侵检测  
-[https://www.sciencedirect.com/science/article/pii/S0167404817302274?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0167404817302274?via%3Dihub) 入侵检测特征选择  
-[A survey of intrusion detection systems based on ensemble and hybrid classifiers](https://www.sciencedirect.com/science/article/pii/S0167404816301572) 对基于集成和混合分类器的入侵检测调查  
-[MADE: Security Analytics for Enterprise Threat Detection](https://dl.acm.org/citation.cfm?id=3274710) 基于日志检测恶意软件活动  
-*[A Reinforcement Learning Approach for Attack Graph Analysis](https://ieeexplore.ieee.org/document/8455909) 基于强化学习的攻击图分析*  
-[Profiling Network Traffic Behavior for the Purpose of Anomaly-Based Intrusion Detection](https://ieeexplore.ieee.org/document/8455995)  基于流量行为的异常检测  
-*[Insider Threat Detection Through Attributed Graph Clustering](https://ieeexplore.ieee.org/document/8029430) 基于属性图聚类的内部威胁检测*  
-*[Unsupervised Feature Selection Method for Intrusion Detection System](https://ieeexplore.ieee.org/document/7345295) 入侵检测系统中的无监督学习特征选择*   
-*[Big Data Analytics for Detecting Host Misbehavior in Large Logs](https://ieeexplore.ieee.org/document/7345288) 从日志中分析主机的不当行为*  
-[An Efficient and Scalable Intrusion Detection System on Logs of Distributed Applications](https://link.springer.com/chapter/10.1007%2F978-3-030-22312-0_4) 基于分布式日志的入侵检测  
-[Process Discovery for Industrial Control System Cyber Attack Detection](https://link.springer.com/chapter/10.1007%2F978-3-319-58469-0_5) 工控系统入侵检测  
-[Visualization of Intrusion Detection Alarms Collected from Multiple Networks](https://link.springer.com/chapter/10.1007%2F978-3-319-69659-1_24) 入侵检测系统告警信息可视化  
-[Slop: Towards an Efficient and Universal Streaming Log Parser](https://link.springer.com/chapter/10.1007%2F978-3-030-01950-1_19) 高效的日志流解析器  
-[A Linguistic Approach Towards Intrusion Detection in Actual Proxy Logs](https://link.springer.com/chapter/10.1007%2F978-3-030-01950-1_42) 在代理日志中进行入侵检测  
-[A Transparent Learning Approach for Attack Prediction Based on User Behavior Analysis](https://link.springer.com/chapter/10.1007%2F978-3-319-50011-9_13) 基于用户行为预测攻击  
+1. [Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub) 基于组合特征和聚类算法的入侵检测（KDD99）  
+2. [Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub) 主机事件挖掘  
+3. [Intrusion response prioritization based on fuzzy ELECTRE multiple criteria decision making technique](https://www.sciencedirect.com/science/article/abs/pii/S2214212618307932?via%3Dihub)  
+4. [A novel honeypot based security approach for real-time intrusion detection and prevention systems](https://www.sciencedirect.com/science/article/abs/pii/S2214212616303295?via%3Dihub) 基于蜜罐的实时入侵检测系统  
+5. *[Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub) 识别安全事件中的违规行为*  
+6. *[Distance Measurement Methods for Improved Insider Threat Detection](https://www.hindawi.com/journals/scn/2018/5906368/) 企业内部威胁检测*  
+7. [Defending against the Advanced Persistent Threat: An Optimal Control Approach](https://www.hindawi.com/journals/scn/2018/2975376/) 基于最佳控制的APT防御方案  
+8. [Network Intrusion Detection with Threat Agent Profiling](https://www.hindawi.com/journals/scn/2018/3614093/) 基于Threat Agent Profiling的网络入侵检测  
+9. [Network Intrusion Detection through Stacking Dilated Convolutional Autoencoders](https://www.hindawi.com/journals/scn/2017/4184196/abs/) 自编码器网络入侵检测  
+10. [An Approach for Internal Network Security Metric Based on Attack Probability](https://www.hindawi.com/journals/scn/2018/3652170/) 基于攻击概率的内部安全评估  
+11. [LA-GRU: Building Combined Intrusion Detection Model Based on Imbalanced Learning and Gated Recurrent Unit Neural Network](https://www.hindawi.com/journals/scn/2018/6026878/) 解决了数据不平衡的入侵检测模型  
+12. [A Closer Look at Intrusion Detection System for Web Applications](https://www.hindawi.com/journals/scn/2018/9601357/) 针对Web应用的入侵检测  
+13. [Network Intrusion Detection Method Based on PCA and Bayes Algorithm ](https://www.hindawi.com/journals/scn/2018/1914980/) 基于PCA和贝叶斯的网络入侵检测  
+14. [Symmetry Degree Measurement and its Applications to Anomaly Detection](https://ieeexplore.ieee.org/document/8790758) 对称度量在异常检测中的应用  
+15. [An Intelligence-Driven Security-Aware Defense Mechanism for Advanced Persistent Threats](https://ieeexplore.ieee.org/document/8386813) 基于Lyapunov的，以威胁情报为后盾的态势感知  
+16. [A survey of network-based intrusion detection data sets](https://www.sciencedirect.com/science/article/pii/S016740481930118X?via%3Dihub) 基于网络入侵检测数据集调查  
+17. [CorrCorr: A feature selection method for multivariate correlation network anomaly detection techniques](https://linkinghub.elsevier.com/retrieve/pii/S0167404818306485) 基于网络入侵检测的特征选择方法  
+18. [How to trick the Borg: threat models against manual and automated techniques for detecting network attacks](https://www.sciencedirect.com/science/article/pii/S0167404818311283?via%3Dihub)  
+19. [Firefly algorithm based feature selection for network intrusion detection](https://www.sciencedirect.com/science/article/pii/S0167404818303936?via%3Dihub) 入侵检测特征选择  
+20. [Dynamic log file analysis: An unsupervised cluster evolution approach for anomaly detection](https://www.sciencedirect.com/science/article/pii/S0167404818306333?via%3Dihub) 基于无监督动态日志分析的异常检测  
+21. [A training-resistant anomaly detection system](https://www.sciencedirect.com/science/article/pii/S016740481830155X?via%3Dihub)  反对抗机器学习入侵检测  
+22. [A systematic survey on multi-step attack detection](https://www.sciencedirect.com/science/article/pii/S0167404818302141?via%3Dihub)  对多阶段攻击检测技术的调查  
+23. [Saving energy in aggressive intrusion detection through dynamic latency sensitivity recognition](https://www.sciencedirect.com/science/article/pii/S0167404817302638?via%3Dihub)  
+24. [A novel architecture combined with optimal parameters for back propagation neural networks applied to anomaly network intrusion detection](https://www.sciencedirect.com/science/article/pii/S0167404818300543?via%3Dihub) 反向传播算法入侵检测  
+25. [https://www.sciencedirect.com/science/article/pii/S0167404817302274?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0167404817302274?via%3Dihub) 入侵检测特征选择  
+26. [A survey of intrusion detection systems based on ensemble and hybrid classifiers](https://www.sciencedirect.com/science/article/pii/S0167404816301572) 对基于集成和混合分类器的入侵检测调查  
+27. [MADE: Security Analytics for Enterprise Threat Detection](https://dl.acm.org/citation.cfm?id=3274710) 基于日志检测恶意软件活动  
+28. *[A Reinforcement Learning Approach for Attack Graph Analysis](https://ieeexplore.ieee.org/document/8455909) 基于强化学习的攻击图分析*  
+29. [Profiling Network Traffic Behavior for the Purpose of Anomaly-Based Intrusion Detection](https://ieeexplore.ieee.org/document/8455995)  基于流量行为的异常检测  
+30. *[Insider Threat Detection Through Attributed Graph Clustering](https://ieeexplore.ieee.org/document/8029430) 基于属性图聚类的内部威胁检测*  
+31. *[Unsupervised Feature Selection Method for Intrusion Detection System](https://ieeexplore.ieee.org/document/7345295) 入侵检测系统中的无监督学习特征选择*   
+32. *[Big Data Analytics for Detecting Host Misbehavior in Large Logs](https://ieeexplore.ieee.org/document/7345288) 从日志中分析主机的不当行为*  
+33. [An Efficient and Scalable Intrusion Detection System on Logs of Distributed Applications](https://link.springer.com/chapter/10.1007%2F978-3-030-22312-0_4) 基于分布式日志的入侵检测  
+34. [Process Discovery for Industrial Control System Cyber Attack Detection](https://link.springer.com/chapter/10.1007%2F978-3-319-58469-0_5) 工控系统入侵检测  
+35. [Visualization of Intrusion Detection Alarms Collected from Multiple Networks](https://link.springer.com/chapter/10.1007%2F978-3-319-69659-1_24) 入侵检测系统告警信息可视化  
+36. [Slop: Towards an Efficient and Universal Streaming Log Parser](https://link.springer.com/chapter/10.1007%2F978-3-030-01950-1_19) 高效的日志流解析器  
+37. [A Linguistic Approach Towards Intrusion Detection in Actual Proxy Logs](https://link.springer.com/chapter/10.1007%2F978-3-030-01950-1_42) 在代理日志中进行入侵检测  
+38. [A Transparent Learning Approach for Attack Prediction Based on User Behavior Analysis](https://link.springer.com/chapter/10.1007%2F978-3-319-50011-9_13) 基于用户行为预测攻击  
 
 
 ## 横向移动专题
@@ -120,3 +120,4 @@
 
 ## 数据集
 https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099 内部威胁检测
+https://csr.lanl.gov/data/cyber1/
