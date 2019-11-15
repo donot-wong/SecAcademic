@@ -10,11 +10,11 @@
 [TrustCom IEEE International Conference on Trust,Security and Privacy in Computing and Communications](https://dblp.uni-trier.de/db/conf/trustcom/) CCF C类/中科院4区  
 
 ## 近年异常(入侵)检测类学术文章（CCF 会议期刊ABC）
-[Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub)基于组合特征和聚类算法的入侵检测（KDD99）  
-[Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub)主机事件挖掘  
+[Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub) 基于组合特征和聚类算法的入侵检测（KDD99）  
+[Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub) 主机事件挖掘  
 [Intrusion response prioritization based on fuzzy ELECTRE multiple criteria decision making technique](https://www.sciencedirect.com/science/article/abs/pii/S2214212618307932?via%3Dihub)  
-[A novel honeypot based security approach for real-time intrusion detection and prevention systems](https://www.sciencedirect.com/science/article/abs/pii/S2214212616303295?via%3Dihub)基于蜜罐的实时入侵检测系统  
-*[Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub)识别安全事件中的违规行为*  
+[A novel honeypot based security approach for real-time intrusion detection and prevention systems](https://www.sciencedirect.com/science/article/abs/pii/S2214212616303295?via%3Dihub) 基于蜜罐的实时入侵检测系统  
+*[Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub) 识别安全事件中的违规行为*  
 *[Distance Measurement Methods for Improved Insider Threat Detection](https://www.hindawi.com/journals/scn/2018/5906368/) 企业内部威胁检测*  
 [Defending against the Advanced Persistent Threat: An Optimal Control Approach](https://www.hindawi.com/journals/scn/2018/2975376/) 基于最佳控制的APT防御方案  
 [Network Intrusion Detection with Threat Agent Profiling](https://www.hindawi.com/journals/scn/2018/3614093/) 基于Threat Agent Profiling的网络入侵检测  
