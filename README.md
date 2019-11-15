@@ -106,3 +106,7 @@
 [Misery Digraphs: Delaying Intrusion Attacks in Obscure Clouds](https://ieeexplore.ieee.org/document/8125739) 云架构上的欺骗防御  
 [https://ieeexplore.ieee.org/document/8325528](https://ieeexplore.ieee.org/document/8325528) 大型网络动态防御技术  
 
+
+
+## 数据集
+https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099 内部威胁检测
