@@ -2,12 +2,12 @@
 
 
 ## 入侵检测相关学术会议/期刊
-[RAID International Symposium on Recent Advances in Intrusion Detection](http://dblp.uni-trier.de/db/conf/raid/)  
-[DIMVA Detection of Intrusions and Malware &Vulnerability Assessment](http://dblp.uni-trier.de/db/conf/dimva/)  
-[ISC Information Security Conference](http://dblp.uni-trier.de/db/conf/isw/)  
-[SEC IFIP International Information Security Conference](http://dblp.uni-trier.de/db/conf/sec/)  
-[SCN Security and Communication Networks](http://dblp.uni-trier.de/db/journals/scn/) CCF C类/中科院4区  
-[TrustCom IEEE International Conference on Trust,Security and Privacy in Computing and Communications](https://dblp.uni-trier.de/db/conf/trustcom/) CCF C类/中科院4区  
+1. [RAID International Symposium on Recent Advances in Intrusion Detection](http://dblp.uni-trier.de/db/conf/raid/)  
+2. [DIMVA Detection of Intrusions and Malware &Vulnerability Assessment](http://dblp.uni-trier.de/db/conf/dimva/)  
+3. [ISC Information Security Conference](http://dblp.uni-trier.de/db/conf/isw/)  
+4. [SEC IFIP International Information Security Conference](http://dblp.uni-trier.de/db/conf/sec/)  
+5. [SCN Security and Communication Networks](http://dblp.uni-trier.de/db/journals/scn/) CCF C类/中科院4区  
+6. [TrustCom IEEE International Conference on Trust,Security and Privacy in Computing and Communications](https://dblp.uni-trier.de/db/conf/trustcom/) CCF C类/中科院4区  
 
 ## 近年异常(入侵)检测类学术文章（CCF 会议期刊ABC）
 1. [Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub) 基于组合特征和聚类算法的入侵检测（KDD99）  
@@ -51,22 +51,22 @@
 
 
 ## 横向移动专题
-[Lateral Movement Detection Using Distributed Data Fusion](https://ieeexplore.ieee.org/abstract/document/7794326) 基于数据融合的横向移动检测  
-[An Unsupervised Multi-Detector Approach for Identifying Malicious Lateral Movement](https://ieeexplore.ieee.org/abstract/document/8069085) 无监督多检测点的横向移动检测  
-[Proposed Framework for Network Lateral Movement Detection Based On User Risk Scoring in SIEM](https://ieeexplore.ieee.org/abstract/document/8580484) 基于评分模型的横向移动检测  
-[Latte: Large-Scale Lateral Movement Detection](https://ieeexplore.ieee.org/abstract/document/8599748) 大规模横向移动检测  
-[A Novel Approach for Identifying Lateral Movement Attacks Based on Network Embedding](https://ieeexplore.ieee.org/abstract/document/8672383) 基于网络嵌入的横向移动检测  
-[Quantitative security analysis of a dynamic network system under lateral movement-based attacks](https://www.sciencedirect.com/science/article/pii/S0951832018307063) 基于横向移动攻击的动态网络模型评估  
-[Facing lateral movements using widespread behavioral probes](https://ieeexplore.ieee.org/abstract/document/7856688) 使用行为探针检测横向移动  
-[Real-Time Lateral Movement Detection Based on Evidence Reasoning Network for Edge Computing Environment](https://ieeexplore.ieee.org/abstract/document/8675514) 基于证据推理的实时横向移动检测  
-[A Machine Learning Approach for RDP-based Lateral Movement Detection](https://uwspace.uwaterloo.ca/handle/10012/15074) 基于RDP的横向移动检测（滑铁卢大学硕士学位论文）  
+1. [Lateral Movement Detection Using Distributed Data Fusion](https://ieeexplore.ieee.org/abstract/document/7794326) 基于数据融合的横向移动检测  
+2. [An Unsupervised Multi-Detector Approach for Identifying Malicious Lateral Movement](https://ieeexplore.ieee.org/abstract/document/8069085) 无监督多检测点的横向移动检测  
+3. [Proposed Framework for Network Lateral Movement Detection Based On User Risk Scoring in SIEM](https://ieeexplore.ieee.org/abstract/document/8580484) 基于评分模型的横向移动检测  
+4. [Latte: Large-Scale Lateral Movement Detection](https://ieeexplore.ieee.org/abstract/document/8599748) 大规模横向移动检测  
+5. [A Novel Approach for Identifying Lateral Movement Attacks Based on Network Embedding](https://ieeexplore.ieee.org/abstract/document/8672383) 基于网络嵌入的横向移动检测  
+6. [Quantitative security analysis of a dynamic network system under lateral movement-based attacks](https://www.sciencedirect.com/science/article/pii/S0951832018307063) 基于横向移动攻击的动态网络模型评估  
+7. [Facing lateral movements using widespread behavioral probes](https://ieeexplore.ieee.org/abstract/document/7856688) 使用行为探针检测横向移动  
+8. [Real-Time Lateral Movement Detection Based on Evidence Reasoning Network for Edge Computing Environment](https://ieeexplore.ieee.org/abstract/document/8675514) 基于证据推理的实时横向移动检测  
+9. [A Machine Learning Approach for RDP-based Lateral Movement Detection](https://uwspace.uwaterloo.ca/handle/10012/15074) 基于RDP的横向移动检测（滑铁卢大学硕士学位论文）  
 
 
 
 ## 基于主机日志（事件）类学术论文
-[Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub)主机事件挖掘  
-[Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub)识别安全事件中的违规行为  
-[Beehive: large-scale log analysis for detecting suspicious activity in enterprise networks](https://dl.acm.org/citation.cfm?id=2523670) 从各类安全事件（告警）日志中提取有价值信息  
+1. [Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub)主机事件挖掘  
+2. [Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub)识别安全事件中的违规行为  
+3. [Beehive: large-scale log analysis for detecting suspicious activity in enterprise networks](https://dl.acm.org/citation.cfm?id=2523670) 从各类安全事件（告警）日志中提取有价值信息  
 
 
 ## Web安全类学术文章（CCF 会议期刊ABC）
@@ -75,49 +75,49 @@
 
 
 ## 恶意软件类 （CCF 会议期刊ABC）
-[Classification of malware families based on runtime behaviors](https://www.sciencedirect.com/science/article/abs/pii/S2214212617301643?via%3Dihub)  
-[A Feature Extraction Method of Hybrid Gram for Malicious Behavior Based on Machine Learning](https://www.hindawi.com/journals/scn/2019/2674684/)  
-[Malware Detection on Byte Streams of PDF Files Using Convolutional Neural Networks](https://www.hindawi.com/journals/scn/2019/8485365/)  
-[A Novel Immune-Inspired Shellcode Detection Algorithm Based on Hyperellipsoid Detectors.](https://www.hindawi.com/journals/scn/2018/2063089/) Shellcode检测  
-[Detecting Malware with an Ensemble Method Based on Deep Neural Network](https://www.hindawi.com/journals/scn/2018/7247095/) 恶意软件检测  
-[ALDOCX: Detection of Unknown Malicious Microsoft Office Documents Using Designated Active Learning Methods Based on New Structural Feature Extraction Methodology](https://ieeexplore.ieee.org/document/7762928) 恶意Office文档检测  
-[Survey of machine learning techniques for malware analysis](https://www.sciencedirect.com/science/article/pii/S0167404818303808?via%3Dihub) 对恶意软件分析技术的调查  
-[Auto-detection of sophisticated malware using lazy-binding control flow graph and deep learning](https://www.sciencedirect.com/science/article/pii/S0167404818300889?via%3Dihub)  深度学习恶意软件检测  
-[From big data to knowledge: A spatio-temporal approach to malware detection](https://www.sciencedirect.com/science/article/pii/S0167404817302705?via%3Dihub) 基于时间、空间关联信息的恶意软件检测  
-[A malware detection method based on family behavior graph](https://www.sciencedirect.com/science/article/pii/S0167404817302146?via%3Dihub) 基于家族行为图的恶意软件检测  
-[Using side channel TCP features for real-time detection of malware connections](https://content.iospress.com/articles/journal-of-computer-security/jcs191286) TCP侧信道检测恶意软件通信  
-[DECANTeR: DEteCtion of Anomalous outbouNd HTTP TRaffic by Passive Application Fingerprinting](https://dl.acm.org/citation.cfm?doid=3134600.3134605) 恶意HTTP通信检测  
+1. [Classification of malware families based on runtime behaviors](https://www.sciencedirect.com/science/article/abs/pii/S2214212617301643?via%3Dihub)  
+2. [A Feature Extraction Method of Hybrid Gram for Malicious Behavior Based on Machine Learning](https://www.hindawi.com/journals/scn/2019/2674684/)  
+3. [Malware Detection on Byte Streams of PDF Files Using Convolutional Neural Networks](https://www.hindawi.com/journals/scn/2019/8485365/)  
+4. [A Novel Immune-Inspired Shellcode Detection Algorithm Based on Hyperellipsoid Detectors.](https://www.hindawi.com/journals/scn/2018/2063089/) Shellcode检测  
+5. [Detecting Malware with an Ensemble Method Based on Deep Neural Network](https://www.hindawi.com/journals/scn/2018/7247095/) 恶意软件检测  
+6. [ALDOCX: Detection of Unknown Malicious Microsoft Office Documents Using Designated Active Learning Methods Based on New Structural Feature Extraction Methodology](https://ieeexplore.ieee.org/document/7762928) 恶意Office文档检测  
+7. [Survey of machine learning techniques for malware analysis](https://www.sciencedirect.com/science/article/pii/S0167404818303808?via%3Dihub) 对恶意软件分析技术的调查  
+8. [Auto-detection of sophisticated malware using lazy-binding control flow graph and deep learning](https://www.sciencedirect.com/science/article/pii/S0167404818300889?via%3Dihub)  深度学习恶意软件检测  
+9. [From big data to knowledge: A spatio-temporal approach to malware detection](https://www.sciencedirect.com/science/article/pii/S0167404817302705?via%3Dihub) 基于时间、空间关联信息的恶意软件检测  
+10. [A malware detection method based on family behavior graph](https://www.sciencedirect.com/science/article/pii/S0167404817302146?via%3Dihub) 基于家族行为图的恶意软件检测  
+11. [Using side channel TCP features for real-time detection of malware connections](https://content.iospress.com/articles/journal-of-computer-security/jcs191286) TCP侧信道检测恶意软件通信  
+12. [DECANTeR: DEteCtion of Anomalous outbouNd HTTP TRaffic by Passive Application Fingerprinting](https://dl.acm.org/citation.cfm?doid=3134600.3134605) 恶意HTTP通信检测  
 
 ## DDOS检测
-[MLP-GA based algorithm to detect application layer DDoS attack](https://www.sciencedirect.com/science/article/abs/pii/S2214212616302162?via%3Dihub)  
-[An event based technique for detecting spoofed IP packets](https://www.sciencedirect.com/science/article/abs/pii/S2214212617301692?via%3Dihub)  
-[A DDoS Attack Detection Method Based on SVM in Software Defined Network](https://www.hindawi.com/journals/scn/2018/9804061/)
-[Preventing Distributed Denial-of-Service Flooding Attacks With Dynamic Path Identifiers](https://ieeexplore.ieee.org/document/7888484) 基于动态路径标识的DDOS防御  
+1. [MLP-GA based algorithm to detect application layer DDoS attack](https://www.sciencedirect.com/science/article/abs/pii/S2214212616302162?via%3Dihub)  
+2. [An event based technique for detecting spoofed IP packets](https://www.sciencedirect.com/science/article/abs/pii/S2214212617301692?via%3Dihub)  
+3. [A DDoS Attack Detection Method Based on SVM in Software Defined Network](https://www.hindawi.com/journals/scn/2018/9804061/)
+4. [Preventing Distributed Denial-of-Service Flooding Attacks With Dynamic Path Identifiers](https://ieeexplore.ieee.org/document/7888484) 基于动态路径标识的DDOS防御  
 
 
 ## 域名类
-[An Imbalanced Malicious Domains Detection Method Based on Passive DNS Traffic Analysis](https://www.hindawi.com/journals/scn/2018/6510381/) 基于DNS流量不平衡的恶意域名检测  
-[Issues and challenges in DNS based botnet detection: A survey](https://www.sciencedirect.com/science/article/pii/S0167404819301117?via%3Dihub) 僵尸网络DNS隧道的调查  
-[Detection of malicious and low throughput data exfiltration over the DNS protocol](https://www.sciencedirect.com/science/article/pii/S0167404818304000?via%3Dihub)  DNS隧道检测  
-[DomainChroma: Building actionable threat intelligence from malicious domain names](https://www.sciencedirect.com/science/article/pii/S0167404818302967?via%3Dihub) 通过恶意域名构建威胁情报  
-[Toward secure name resolution on the internet](https://www.sciencedirect.com/science/article/pii/S0167404818300403?via%3Dihub)  下一代安全名称解析协议  
-[DNS Tunneling Detection Method Based on Multilabel Support Vector Machine](https://www.hindawi.com/journals/scn/2018/6137098/) DNS通信隧道检测  
-[Detecting DNS Tunnel through Binary-Classification Based on Behavior Features](https://ieeexplore.ieee.org/document/8029459) DNS隧道检测  
-[Getting Under Alexa’s Umbrella: Infiltration Attacks Against Internet Top Domain Lists](https://link.springer.com/chapter/10.1007%2F978-3-030-30215-3_13)  
-[Fast Flux Service Network Detection via Data Mining on Passive DNS Traffic](https://link.springer.com/chapter/10.1007%2F978-3-319-99136-8_25)  
-[A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007%2F978-3-319-78813-5_22)  基于深度学习的恶意URL和DNS检测  
+1. [An Imbalanced Malicious Domains Detection Method Based on Passive DNS Traffic Analysis](https://www.hindawi.com/journals/scn/2018/6510381/) 基于DNS流量不平衡的恶意域名检测  
+2. [Issues and challenges in DNS based botnet detection: A survey](https://www.sciencedirect.com/science/article/pii/S0167404819301117?via%3Dihub) 僵尸网络DNS隧道的调查  
+3. [Detection of malicious and low throughput data exfiltration over the DNS protocol](https://www.sciencedirect.com/science/article/pii/S0167404818304000?via%3Dihub)  DNS隧道检测  
+4. [DomainChroma: Building actionable threat intelligence from malicious domain names](https://www.sciencedirect.com/science/article/pii/S0167404818302967?via%3Dihub) 通过恶意域名构建威胁情报  
+5. [Toward secure name resolution on the internet](https://www.sciencedirect.com/science/article/pii/S0167404818300403?via%3Dihub)  下一代安全名称解析协议  
+6. [DNS Tunneling Detection Method Based on Multilabel Support Vector Machine](https://www.hindawi.com/journals/scn/2018/6137098/) DNS通信隧道检测  
+7. [Detecting DNS Tunnel through Binary-Classification Based on Behavior Features](https://ieeexplore.ieee.org/document/8029459) DNS隧道检测  
+8. [Getting Under Alexa’s Umbrella: Infiltration Attacks Against Internet Top Domain Lists](https://link.springer.com/chapter/10.1007%2F978-3-030-30215-3_13)  
+9. [Fast Flux Service Network Detection via Data Mining on Passive DNS Traffic](https://link.springer.com/chapter/10.1007%2F978-3-319-99136-8_25)  
+10. [A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007%2F978-3-319-78813-5_22)  基于深度学习的恶意URL和DNS检测  
 
 
 ## 爬虫检测
-[Detection Method for Distributed Web-Crawlers: A Long-Tail Threshold Model](https://www.hindawi.com/journals/scn/2018/9065424/) 分布式爬虫检测  
+1. [Detection Method for Distributed Web-Crawlers: A Long-Tail Threshold Model](https://www.hindawi.com/journals/scn/2018/9065424/) 分布式爬虫检测  
 
 
 ## 防御类
-[Misery Digraphs: Delaying Intrusion Attacks in Obscure Clouds](https://ieeexplore.ieee.org/document/8125739) 云架构上的欺骗防御  
-[https://ieeexplore.ieee.org/document/8325528](https://ieeexplore.ieee.org/document/8325528) 大型网络动态防御技术  
+1. [Misery Digraphs: Delaying Intrusion Attacks in Obscure Clouds](https://ieeexplore.ieee.org/document/8125739) 云架构上的欺骗防御  
+2. [https://ieeexplore.ieee.org/document/8325528](https://ieeexplore.ieee.org/document/8325528) 大型网络动态防御技术  
 
 
 
 ## 数据集
-https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099 内部威胁检测
-https://csr.lanl.gov/data/cyber1/
+1. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099 内部威胁检测
+2. https://csr.lanl.gov/data/cyber1/
