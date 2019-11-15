@@ -50,13 +50,22 @@
 [A Transparent Learning Approach for Attack Prediction Based on User Behavior Analysis](https://link.springer.com/chapter/10.1007%2F978-3-319-50011-9_13) 基于用户行为预测攻击  
 
 
-
+## 横向移动专题
+[Lateral Movement Detection Using Distributed Data Fusion](https://ieeexplore.ieee.org/abstract/document/7794326) 基于数据融合的横向移动检测  
+[An Unsupervised Multi-Detector Approach for Identifying Malicious Lateral Movement](https://ieeexplore.ieee.org/abstract/document/8069085) 无监督多检测点的横向移动检测  
+[Proposed Framework for Network Lateral Movement Detection Based On User Risk Scoring in SIEM](https://ieeexplore.ieee.org/abstract/document/8580484) 基于评分模型的横向移动检测  
+[Latte: Large-Scale Lateral Movement Detection](https://ieeexplore.ieee.org/abstract/document/8599748) 大规模横向移动检测  
+[A Novel Approach for Identifying Lateral Movement Attacks Based on Network Embedding](https://ieeexplore.ieee.org/abstract/document/8672383) 基于网络嵌入的横向移动检测  
+[Quantitative security analysis of a dynamic network system under lateral movement-based attacks](https://www.sciencedirect.com/science/article/pii/S0951832018307063) 基于横向移动攻击的动态网络模型评估  
+[Facing lateral movements using widespread behavioral probes](https://ieeexplore.ieee.org/abstract/document/7856688) 使用行为探针检测横向移动  
+[Real-Time Lateral Movement Detection Based on Evidence Reasoning Network for Edge Computing Environment](https://ieeexplore.ieee.org/abstract/document/8675514) 基于证据推理的实时横向移动检测  
 
 
 
 ## 基于主机日志（事件）类学术论文
 [Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub)主机事件挖掘  
 [Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub)识别安全事件中的违规行为  
+[Beehive: large-scale log analysis for detecting suspicious activity in enterprise networks](https://dl.acm.org/citation.cfm?id=2523670) 从各类安全事件（告警）日志中提取有价值信息  
 
 
 ## Web安全类学术文章（CCF 会议期刊ABC）
