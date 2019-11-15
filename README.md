@@ -59,6 +59,7 @@
 [Quantitative security analysis of a dynamic network system under lateral movement-based attacks](https://www.sciencedirect.com/science/article/pii/S0951832018307063) 基于横向移动攻击的动态网络模型评估  
 [Facing lateral movements using widespread behavioral probes](https://ieeexplore.ieee.org/abstract/document/7856688) 使用行为探针检测横向移动  
 [Real-Time Lateral Movement Detection Based on Evidence Reasoning Network for Edge Computing Environment](https://ieeexplore.ieee.org/abstract/document/8675514) 基于证据推理的实时横向移动检测  
+[A Machine Learning Approach for RDP-based Lateral Movement Detection](https://uwspace.uwaterloo.ca/handle/10012/15074) 基于RDP的横向移动检测（滑铁卢大学硕士学位论文）  
 
 
 
