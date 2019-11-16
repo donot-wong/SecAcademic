@@ -121,3 +121,6 @@
 ## 数据集
 1. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099 内部威胁检测
 2. https://csr.lanl.gov/data/cyber1/
+3. https://vizsec.org/data/ 
+4. https://github.com/logpai/loghub 
+5. https://snap.stanford.edu/data/index.html 斯坦福大学数据集
