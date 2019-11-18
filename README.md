@@ -13,7 +13,7 @@
 9. [IJISP International Journal of Information Security and Privacy](http://dblp.uni-trier.de/db/journals/ijisp/)  
 
 
-## 近年异常(入侵)检测类学术文章（CCF 会议期刊ABC）
+## 近年异常(入侵)检测类学术文章
 1. [Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub) 基于组合特征和聚类算法的入侵检测（KDD99）  
 2. [Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub) 主机事件挖掘  
 3. [Intrusion response prioritization based on fuzzy ELECTRE multiple criteria decision making technique](https://www.sciencedirect.com/science/article/abs/pii/S2214212618307932?via%3Dihub)  
@@ -88,12 +88,12 @@
 
 
 ## Web安全类学术文章（CCF 会议期刊ABC）
-[SQL Injection Attack classification through the feature extraction of SQL query strings using a Gap-Weighted String Subsequence Kernel](https://www.sciencedirect.com/science/article/abs/pii/S2214212617303691?via%3Dihub)
-[SQL injection attacks - a systematic review](http://www.inderscience.com/offer.php?id=101937) SQL注入检测综述  
+1. [SQL Injection Attack classification through the feature extraction of SQL query strings using a Gap-Weighted String Subsequence Kernel](https://www.sciencedirect.com/science/article/abs/pii/S2214212617303691?via%3Dihub)
+2. [SQL injection attacks - a systematic review](http://www.inderscience.com/offer.php?id=101937) SQL注入检测综述  
 
 
 
-## 恶意软件类 （CCF 会议期刊ABC）
+## 恶意软件类
 1. [Classification of malware families based on runtime behaviors](https://www.sciencedirect.com/science/article/abs/pii/S2214212617301643?via%3Dihub)  
 2. [A Feature Extraction Method of Hybrid Gram for Malicious Behavior Based on Machine Learning](https://www.hindawi.com/journals/scn/2019/2674684/)  
 3. [Malware Detection on Byte Streams of PDF Files Using Convolutional Neural Networks](https://www.hindawi.com/journals/scn/2019/8485365/)  
