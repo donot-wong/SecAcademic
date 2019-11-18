@@ -8,6 +8,10 @@
 4. [SEC IFIP International Information Security Conference](http://dblp.uni-trier.de/db/conf/sec/)  
 5. [SCN Security and Communication Networks](http://dblp.uni-trier.de/db/journals/scn/) CCF C类/中科院4区  
 6. [TrustCom IEEE International Conference on Trust,Security and Privacy in Computing and Communications](https://dblp.uni-trier.de/db/conf/trustcom/) CCF C类/中科院4区  
+7. [NDSS ISOC Network and Distributed System Security Symposium](http://dblp.uni-trier.de/db/conf/ndss/)  
+8. [IJICS International Journal of Information and Computer Security](http://dblp.uni-trier.de/db/journals/ijics/)  
+9. [IJISP International Journal of Information Security and Privacy](http://dblp.uni-trier.de/db/journals/ijisp/)  
+
 
 ## 近年异常(入侵)检测类学术文章（CCF 会议期刊ABC）
 1. [Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub) 基于组合特征和聚类算法的入侵检测（KDD99）  
@@ -19,7 +23,7 @@
 7. [Defending against the Advanced Persistent Threat: An Optimal Control Approach](https://www.hindawi.com/journals/scn/2018/2975376/) 基于最佳控制的APT防御方案  
 8. [Network Intrusion Detection with Threat Agent Profiling](https://www.hindawi.com/journals/scn/2018/3614093/) 基于Threat Agent Profiling的网络入侵检测  
 9. [Network Intrusion Detection through Stacking Dilated Convolutional Autoencoders](https://www.hindawi.com/journals/scn/2017/4184196/abs/) 自编码器网络入侵检测  
-10. [An Approach for Internal Network Security Metric Based on Attack Probability](https://www.hindawi.com/journals/scn/2018/3652170/) 基于攻击概率的内部安全评估  
+10. *[An Approach for Internal Network Security Metric Based on Attack Probability](https://www.hindawi.com/journals/scn/2018/3652170/) 基于攻击概率的内部安全评估*  
 11. [LA-GRU: Building Combined Intrusion Detection Model Based on Imbalanced Learning and Gated Recurrent Unit Neural Network](https://www.hindawi.com/journals/scn/2018/6026878/) 解决了数据不平衡的入侵检测模型  
 12. [A Closer Look at Intrusion Detection System for Web Applications](https://www.hindawi.com/journals/scn/2018/9601357/) 针对Web应用的入侵检测  
 13. [Network Intrusion Detection Method Based on PCA and Bayes Algorithm ](https://www.hindawi.com/journals/scn/2018/1914980/) 基于PCA和贝叶斯的网络入侵检测  
@@ -48,6 +52,20 @@
 36. [Slop: Towards an Efficient and Universal Streaming Log Parser](https://link.springer.com/chapter/10.1007%2F978-3-030-01950-1_19) 高效的日志流解析器  
 37. [A Linguistic Approach Towards Intrusion Detection in Actual Proxy Logs](https://link.springer.com/chapter/10.1007%2F978-3-030-01950-1_42) 在代理日志中进行入侵检测  
 38. [A Transparent Learning Approach for Attack Prediction Based on User Behavior Analysis](https://link.springer.com/chapter/10.1007%2F978-3-319-50011-9_13) 基于用户行为预测攻击  
+39. *[Towards a Timely Causality Analysis for Enterprise Security](http://www.princeton.edu/~pmittal/publications/priotracker-ndss18.pdf) 基于因果关系分析的企业内部安全检测*  
+40. [Anomaly detection through information sharing under different topologies](https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-017-0056-5) 基于拓扑间信息共享的异常检测  
+41. [Foundations and applications of artificial Intelligence for zero-day and multi-step attack detection](https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-018-0074-y) 多步攻击检测  
+42. *[Detecting lateral spear phishing attacks in organisations](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2018.5090) 横向鱼叉钓鱼检测*  
+43. [Detecting new generations of threats using attribute-based attack graph](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2018.5409) 基于属性图的下一代威胁检测  
+44. [Network intrusion detection algorithm based on deep neural network](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2018.5258) 基于深度神经网络的入侵检测  
+45. [Detecting anomalous traffic in the controlled network based on cross entropy and support vector machine](https://ieeexplore.ieee.org/abstract/document/8665831) 基于交叉熵和SVM的网络入侵检测  
+46. *[Tightroping between APT and BCI in small enterprises](https://www.emerald.com/insight/content/doi/10.1108/ICS-07-2016-0047/full/html) 小型企业APT与业务信息之间的关联*  
+47. *[Sequential pattern analysis for event-based intrusion detection](http://www.inderscience.com/offer.php?id=101936) 基于事件的恶意入侵序列特征分析*  
+48. [Development of an efficient classifier using proposed sensitivity-based feature selection technique for intrusion detection system](http://www.inderscience.com/storage/f611048927311512.pdf) 入侵检测特征选择技术  
+49. [Building an Effective Approach toward Intrusion Detection Using Ensemble Feature Selection](https://www.igi-global.com/gateway/article/232667) 基于集合特征选择的入侵检测  
+
+
+
 
 
 ## 横向移动专题
@@ -71,6 +89,7 @@
 
 ## Web安全类学术文章（CCF 会议期刊ABC）
 [SQL Injection Attack classification through the feature extraction of SQL query strings using a Gap-Weighted String Subsequence Kernel](https://www.sciencedirect.com/science/article/abs/pii/S2214212617303691?via%3Dihub)
+[SQL injection attacks - a systematic review](http://www.inderscience.com/offer.php?id=101937) SQL注入检测综述  
 
 
 
@@ -87,12 +106,19 @@
 10. [A malware detection method based on family behavior graph](https://www.sciencedirect.com/science/article/pii/S0167404817302146?via%3Dihub) 基于家族行为图的恶意软件检测  
 11. [Using side channel TCP features for real-time detection of malware connections](https://content.iospress.com/articles/journal-of-computer-security/jcs191286) TCP侧信道检测恶意软件通信  
 12. [DECANTeR: DEteCtion of Anomalous outbouNd HTTP TRaffic by Passive Application Fingerprinting](https://dl.acm.org/citation.cfm?doid=3134600.3134605) 恶意HTTP通信检测  
+13. [Countering Malicious Processes with Process-DNS Association](https://www.ndss-symposium.org/ndss-paper/countering-malicious-processes-with-process-dns-association/) 基于DNS的恶意进程检测  
+14. [Polymorphic malware detection using sequence classification methods and ensembles](https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-017-0055-6) 使用序列分类方法和集成进行多态恶意软件检测  
+15. [Malware classification based on API calls and behaviour analysis](http://mr.crossref.org/iPage?doi=10.1049%2Fiet-ifs.2017.0430) 基于API调用的恶意软件分类  
+16. [Mining malicious behavioural patterns](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2017.0079) 挖掘恶意软件的行为模式  
+17. [Behavioral Modeling of Malicious Objects in a Highly Infected Network Under Quarantine Defence](https://www.igi-global.com/gateway/article/218843) 高度隔离环境下的恶意软件行为分析  
 
 ## DDOS检测
 1. [MLP-GA based algorithm to detect application layer DDoS attack](https://www.sciencedirect.com/science/article/abs/pii/S2214212616302162?via%3Dihub)  
 2. [An event based technique for detecting spoofed IP packets](https://www.sciencedirect.com/science/article/abs/pii/S2214212617301692?via%3Dihub)  
 3. [A DDoS Attack Detection Method Based on SVM in Software Defined Network](https://www.hindawi.com/journals/scn/2018/9804061/)
 4. [Preventing Distributed Denial-of-Service Flooding Attacks With Dynamic Path Identifiers](https://ieeexplore.ieee.org/document/7888484) 基于动态路径标识的DDOS防御  
+5. [HADEC: Hadoop-based live DDoS detection framework.](https://dblp.uni-trier.de/db/journals/ejisec/ejisec2018.html) 基于hadoop的DDOS检测  
+
 
 
 ## 域名类
@@ -106,6 +132,7 @@
 8. [Getting Under Alexa’s Umbrella: Infiltration Attacks Against Internet Top Domain Lists](https://link.springer.com/chapter/10.1007%2F978-3-030-30215-3_13)  
 9. [Fast Flux Service Network Detection via Data Mining on Passive DNS Traffic](https://link.springer.com/chapter/10.1007%2F978-3-319-99136-8_25)  
 10. [A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007%2F978-3-319-78813-5_22)  基于深度学习的恶意URL和DNS检测  
+11. [Cracking the Wall of Confinement: Understanding and Analyzing Malicious Domain Take-downs](ndss-symposium.org/ndss-paper/cracking-the-wall-of-confinement-understanding-and-analyzing-malicious-domain-take-downs/) 恶意域检测  
 
 
 ## 爬虫检测
@@ -116,6 +143,9 @@
 1. [Misery Digraphs: Delaying Intrusion Attacks in Obscure Clouds](https://ieeexplore.ieee.org/document/8125739) 云架构上的欺骗防御  
 2. [https://ieeexplore.ieee.org/document/8325528](https://ieeexplore.ieee.org/document/8325528) 大型网络动态防御技术  
 
+
+## 其他
+1. [Automatic Identification of Honeypot Server Using Machine Learning Techniques](https://www.hindawi.com/journals/scn/2019/2627608/) 基于机器学习的蜜罐识别  
 
 
 ## 数据集
