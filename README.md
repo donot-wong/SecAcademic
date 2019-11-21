@@ -78,6 +78,8 @@
 7. [Facing lateral movements using widespread behavioral probes](https://ieeexplore.ieee.org/abstract/document/7856688) 使用行为探针检测横向移动  
 8. [Real-Time Lateral Movement Detection Based on Evidence Reasoning Network for Edge Computing Environment](https://ieeexplore.ieee.org/abstract/document/8675514) 基于证据推理的实时横向移动检测  
 9. [A Machine Learning Approach for RDP-based Lateral Movement Detection](https://uwspace.uwaterloo.ca/handle/10012/15074) 基于RDP的横向移动检测（滑铁卢大学硕士学位论文）  
+10. [CERT-EU_SWP_17-002_Lateral_Movements]() 欧洲应急响应中心的关于横向移动检测的报告  
+11. [Detecting Lateral Movement Through Tracking Event Logs_version2]() 日本国家应急响应中心的通过日志检测横向移动的报告  
 
 
 
