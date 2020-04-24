@@ -79,7 +79,8 @@
 8. [Real-Time Lateral Movement Detection Based on Evidence Reasoning Network for Edge Computing Environment](https://ieeexplore.ieee.org/abstract/document/8675514) 基于证据推理的实时横向移动检测  
 9. [A Machine Learning Approach for RDP-based Lateral Movement Detection](https://uwspace.uwaterloo.ca/handle/10012/15074) 基于RDP的横向移动检测（滑铁卢大学硕士学位论文）  
 10. [CERT-EU_SWP_17-002_Lateral_Movements]() 欧洲应急响应中心的关于横向移动检测的报告  
-11. [Detecting Lateral Movement Through Tracking Event Logs_version2]() 日本国家应急响应中心的通过日志检测横向移动的报告  
+11. [Detecting Lateral Movement Through Tracking Event Logs_version2](https://www.jpcert.or.jp/english/pub/sr/DetectingLateralMovementThroughTrackingEventLogs_version2.pdf) 日本国家应急响应中心的通过日志检测横向移动的报告  
+12. [https://jpcertcc.github.io/ToolAnalysisResultSheet/](https://jpcertcc.github.io/ToolAnalysisResultSheet/) 日本国家应急响应中心对横向移动各类工具日志检测的结果  
 
 
 
@@ -148,11 +149,13 @@
 
 ## 其他
 1. [Automatic Identification of Honeypot Server Using Machine Learning Techniques](https://www.hindawi.com/journals/scn/2019/2627608/) 基于机器学习的蜜罐识别  
-
+2. [https://www.csuldw.com/2019/03/24/2019-03-24-anomaly-detection-introduction/](八大无监督异常检测技术) 八大无监督异常检测技术  
+3. [http://sofasofa.io/tutorials/anomaly_detection/](利用Autoencoder进行无监督异常检测) 利用Autoencoder进行无监督异常检测  
+4. [https://www.ibm.com/developerworks/cn/cognitive/library/cc-unsupervised-learning-data-classification/index.html](用于数据分类的无监督学习) 用于数据分类的无监督学习  
 
 ## 数据集
-1. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099 内部威胁检测
-2. https://csr.lanl.gov/data/cyber1/
-3. https://vizsec.org/data/ 
-4. https://github.com/logpai/loghub 
-5. https://snap.stanford.edu/data/index.html 斯坦福大学数据集
+1. https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099 内部威胁检测  
+2. https://csr.lanl.gov/data/cyber1/  
+3. https://vizsec.org/data/  
+4. https://github.com/logpai/loghub  
+5. https://snap.stanford.edu/data/index.html 斯坦福大学数据集  
