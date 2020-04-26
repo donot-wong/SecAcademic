@@ -159,3 +159,16 @@
 3. https://vizsec.org/data/  
 4. https://github.com/logpai/loghub  
 5. https://snap.stanford.edu/data/index.html 斯坦福大学数据集  
+
+
+## 恶意软件分析平台
+1. https://www.virustotal.com/gui/home/upload 
+2. http://habo.qq.com 
+3. https://analyze.intezer.com/ 
+4. https://app.any.run/ 
+5. https://www.hybrid-analysis.com/ 
+6. https://malwr.com/ 
+7. http://www.securitytalk.xyz/sample 
+8. https://www.reverse.it/
+9. https://bazaar.abuse.ch/browse/
+10. https://labs.inquest.net/
