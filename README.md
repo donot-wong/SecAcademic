@@ -65,7 +65,9 @@
 49. [Building an Effective Approach toward Intrusion Detection Using Ensemble Feature Selection](https://www.igi-global.com/gateway/article/232667) 基于集合特征选择的入侵检测  
 
 
-
+## APT攻击检测专题
+1. [HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows](https://ieeexplore.ieee.org/abstract/document/8835390) 基于细粒度事件关系图的APT攻击检测，算法为自设计评分模型
+2. [ATLAS: A Sequence-based Learning Approach for Attack Investigation](https://www.usenix.org/conference/usenixsecurity21/presentation/alsaheel) 基于因果图构建APT攻击行为检测序列实现攻击检测
 
 
 ## 横向移动专题
@@ -81,7 +83,7 @@
 10. [CERT-EU_SWP_17-002_Lateral_Movements]() 欧洲应急响应中心的关于横向移动检测的报告  
 11. [Detecting Lateral Movement Through Tracking Event Logs_version2](https://www.jpcert.or.jp/english/pub/sr/DetectingLateralMovementThroughTrackingEventLogs_version2.pdf) 日本国家应急响应中心的通过日志检测横向移动的报告  
 12. [https://jpcertcc.github.io/ToolAnalysisResultSheet/](https://jpcertcc.github.io/ToolAnalysisResultSheet/) 日本国家应急响应中心对横向移动各类工具日志检测的结果  
-
+13. [Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI](https://www.usenix.org/system/files/raid20-bowman.pdf) 基于异构图边预测的横向移动检测
 
 
 ## 基于主机日志（事件）类学术论文
